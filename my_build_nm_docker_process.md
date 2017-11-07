@@ -16,7 +16,7 @@ git clone https://liangzhichong@bitbucket.org/yimian/taobao_sub.git
 
 npm init
 
-
+npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 cnpm install -g yarn
 yarn config set registry https://registry.npm.taobao.org
